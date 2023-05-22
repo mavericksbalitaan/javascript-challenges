@@ -1,0 +1,1 @@
+// Write a function that accepts two strings and checks if they are anagrams, ignoring spaces and punctuation.

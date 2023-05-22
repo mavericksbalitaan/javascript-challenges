@@ -1,0 +1,1 @@
+// Create a function that accepts an array of strings and returns the concatenation of all the strings.

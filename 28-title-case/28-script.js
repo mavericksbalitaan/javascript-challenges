@@ -1,0 +1,1 @@
+// Write a function that accepts a string and capitalizes the first letter of each word.

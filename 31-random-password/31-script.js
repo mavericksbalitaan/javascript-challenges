@@ -1,0 +1,1 @@
+// Create a function that generates a random password with at least 10 characters.

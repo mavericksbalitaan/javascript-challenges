@@ -1,0 +1,1 @@
+// Write a function that accepts a string and removes all duplicate characters from the string.
