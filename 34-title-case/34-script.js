@@ -10,4 +10,3 @@ function titleCase(arr) {
 }
 
 console.log(titleCase(["hello", "world", "i", "am", "a", "web", "developer"])); // [ 'Hello', 'World', 'I', 'Am', 'A', 'Web', 'Developer' ]
-

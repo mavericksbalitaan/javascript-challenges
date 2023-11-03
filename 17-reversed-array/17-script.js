@@ -1,4 +1,4 @@
-// Write a function that takes an array of strings and returns a new array with the strings in reverse order. 
+// Write a function that takes an array of strings and returns a new array with the strings in reverse order.
 
 function reversedArr(arr) {
   let newArr = [];
@@ -8,4 +8,4 @@ function reversedArr(arr) {
   return newArr;
 }
 
-console.log(reversedArr(['hello', 'cat'])); // ['olleh', 'tac']
+console.log(reversedArr(["hello", "cat"])); // ['olleh', 'tac']

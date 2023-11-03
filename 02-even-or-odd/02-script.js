@@ -1,4 +1,4 @@
-// Write a function that checks if a given number is even or odd. 
+// Write a function that checks if a given number is even or odd.
 // If the number is odd return " ${num} is an odd number ".
 // If the number is even return " ${num} is an even number ".
 

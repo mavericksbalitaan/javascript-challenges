@@ -8,4 +8,6 @@ function concatenatedStr(arr) {
   return sentence;
 }
 
-console.log(concatenatedStr(["hello", "world", "i", "am", "a", "web", "developer"])); // hello world i a web developer
+console.log(
+  concatenatedStr(["hello", "world", "i", "am", "a", "web", "developer"]),
+); // hello world i a web developer

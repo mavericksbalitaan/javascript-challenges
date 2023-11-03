@@ -10,4 +10,4 @@ function longWords(arr) {
   return newarr;
 }
 
-console.log(longWords(['abcde', 'abcd', 'abc', 'ab', 'a'])); // ['abcde']
+console.log(longWords(["abcde", "abcd", "abc", "ab", "a"])); // ['abcde']

@@ -13,7 +13,7 @@ function uniqueValues(arr) {
     // }
 
     // Solution 02
-    newArr.includes(arr[i]) ? null : (newArr.push(arr[i]));
+    newArr.includes(arr[i]) ? null : newArr.push(arr[i]);
   }
   return newArr;
 }

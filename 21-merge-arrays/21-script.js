@@ -2,9 +2,12 @@
 
 function mergeArrays(arr1, arr2) {
   for (let i = 0; i < arr2.length; i++) {
-    arr1.push(arr2[i])
+    arr1.push(arr2[i]);
   }
   return arr1;
+
+  // Solution 2
+  // return array1.concat(array2);
 }
 
 console.log(mergeArrays([1, 2, 3], [4, 5, 6])); // [1, 2, 3, 4, 5, 6]

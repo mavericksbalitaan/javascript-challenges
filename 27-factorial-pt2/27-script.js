@@ -13,4 +13,3 @@ function primefactors(num) {
 
 console.log(primefactors(9)); // [1, 3, 9]
 console.log(primefactors(12)); // [1, 2, 3, 4, 6, 12]
-

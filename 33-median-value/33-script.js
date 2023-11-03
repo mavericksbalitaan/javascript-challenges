@@ -10,12 +10,11 @@ function median(arr) {
     middle = Math.floor(arr.length / 2);
     return sort[middle];
   } else {
-    first = sort[(arr.length / 2) - 1];
-    second = sort[(arr.length / 2)];
+    first = sort[arr.length / 2 - 1];
+    second = sort[arr.length / 2];
     middle = (first + second) / 2;
     return middle;
   }
-
 }
 
 console.log(median([2, 5, 8, 11, 16, 21, 30])); // 11

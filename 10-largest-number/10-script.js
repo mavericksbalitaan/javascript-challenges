@@ -8,7 +8,6 @@ function largestNumber(arr) {
   // Solution 02
   // let sort = arr.sort((a, b) => b - a);
   // return sort[0];
-  
 
   // Solution 03
   let max = 0;

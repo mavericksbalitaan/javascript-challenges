@@ -7,14 +7,13 @@ function merge(arr1, arr2) {
   // }
   // return arr1;
 
-
   // Solution 02
   let myArr = [];
   for (let i = 0; i < arr1.length; i++) {
-    myArr.push(arr1[i])
+    myArr.push(arr1[i]);
   }
   for (let i = 0; i < arr2.length; i++) {
-    myArr.push(arr2[i])
+    myArr.push(arr2[i]);
   }
   return myArr;
 }

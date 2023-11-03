@@ -9,7 +9,7 @@ function isPerfectSquare(num) {
   // }
 
   // Solution 02
-  if (num === (Math.pow(Math.sqrt(num), 2))) {
+  if (num === Math.pow(Math.sqrt(num), 2)) {
     return true;
   } else {
     return false;

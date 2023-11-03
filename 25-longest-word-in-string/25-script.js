@@ -14,4 +14,4 @@ function longestWordInString(sentence) {
   return longestWord;
 }
 
-console.log(longestWordInString("Hello World I am a Web Developer"))
+console.log(longestWordInString("Hello World I am a Web Developer"));

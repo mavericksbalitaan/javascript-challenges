@@ -17,7 +17,6 @@ function removeDuplicates(str) {
   }
 
   return newStr;
-
 }
 
 console.log(removeDuplicates("hello")); // helo;
