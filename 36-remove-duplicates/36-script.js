@@ -20,3 +20,18 @@ function removeDuplicates(str) {
 }
 
 console.log(removeDuplicates("hello")); // helo;
+
+// Solution 3
+// const duplicateChars = (string) => {
+//   const array = string.split('')
+//   let newArray = []
+
+//   array.forEach(el => {
+//       if (!newArray.includes(el)) {
+//           newArray.push(el)
+//       }
+//   });
+//   return newArray
+// }
+
+// console.log(duplicateChars("mississippi"));
